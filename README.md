@@ -1,9 +1,15 @@
-# GitPractice
+# Git Tutorial
 
-Hello, this is Lirian.
-We'll have a tutorial about git
+Hello, this is a Tutorial about Git.
+Git is powerful and magical.
 
-Now you can read *steps/first.step* to begin your journey!
+This tutorial will show you some base command.
+It takes about 30 minutes.
 
-glhf
+Now you can start by reading *Missions/MissionI.md*
+
+Good luck & Have fun
+ 
+
+[Lirian](l@cloudisdream.com)
 
